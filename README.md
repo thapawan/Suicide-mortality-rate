@@ -1,1 +1,1 @@
-# Suicide-mortality-rate
+# Suicide Mortality Rate
